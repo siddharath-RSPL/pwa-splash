@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1680616893649,
+  "timestamp": 1680618479320,
   "index": "/pwa-splash/index.html",
   "assetGroups": [
     {
@@ -36,7 +36,8 @@
         "/pwa-splash/assets/icons/splash- 384x384.PNG",
         "/pwa-splash/assets/icons/splash- 512x512.PNG",
         "/pwa-splash/assets/icons/splash- 72x72.PNG",
-        "/pwa-splash/assets/icons/splash- 96x96.PNG"
+        "/pwa-splash/assets/icons/splash- 96x96.PNG",
+        "/pwa-splash/assets/splash-screen.PNG"
       ],
       "patterns": []
     }
@@ -51,10 +52,11 @@
     "/pwa-splash/assets/icons/splash- 512x512.PNG": "bfd823ab27a167453bc2934283ed18616f574d8a",
     "/pwa-splash/assets/icons/splash- 72x72.PNG": "0d7a76cd910d94763a2fa53960fe62cdad9700fd",
     "/pwa-splash/assets/icons/splash- 96x96.PNG": "13015d318567326fbb4d75bbb00caf3bd8c8c138",
+    "/pwa-splash/assets/splash-screen.PNG": "e9759d27e6475dc231b99197523fa6325bcc2005",
     "/pwa-splash/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/pwa-splash/index.html": "c1be965624b337bd98a63ebcb023de0390aa2288",
     "/pwa-splash/main.6886b61943bf0173.js": "8a9ed16d2c0fbc0ac76d5c24453cd2495d1b4bb3",
-    "/pwa-splash/manifest.webmanifest": "30545ffeea2358ed11dc44aa959f57a736962f7b",
+    "/pwa-splash/manifest.webmanifest": "67e2aedb8d5157461c797ccefc6ec39de13b89e0",
     "/pwa-splash/polyfills.566831d78833f719.js": "1274de09a6309a3bac5d52a34148e24d835c01f2",
     "/pwa-splash/runtime.14da0fb16b1ac9e5.js": "1c42b99d8811a90e0bfc1e168cd30384754aedd0",
     "/pwa-splash/styles.7a21ac1018e81662.css": "419a1bf6355ecc409a19ad454a30eb5b8ffd1b71"

@@ -55,5 +55,10 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "splash_screen": {
+    "src": "/assets/splash-screen.png",
+    "sizes": "1920x1080",
+     "type": "image/png"
+  }
 }
