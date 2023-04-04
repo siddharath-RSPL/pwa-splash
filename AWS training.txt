@@ -1,0 +1,171 @@
+Also check aws.amazon.com/training/self-paced-labs
+
+Benefits at a Glance: https://aws.amazon.com/application-hosting/benefits/ AWS Cloud Products : https://aws.amazon.com/products/
+
+AWS free Tier: https://aws.amazon.com/free
+
+Regions and Availability Zones: https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+
+Also, Please check AWS Global Infrastructure: https://aws.amazon.com/about-aws/global-infrastructure/
+
+AWS Outposts: https://aws.amazon.com/outposts/
+
+EC2 Amazon EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+
+AWS EC2 Instance types : https://aws.amazon.com/ec2/instance-types/
+
+EBS Volume types : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html Amazon Elastic Block Store: https://aws.amazon.com/ebs/?ebs-whats-new.sort-by=item.additionalFields.postDateTime&ebs-whats-new.sort-order=desc
+
+AWS EC2 Instance purchasing options : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html
+
+Amazon Elastic Container Service (ECS) : https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html Amazon Elastic Kubernetes Service (EKS) : https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/amazon-elastic-kubernetes-service.html AWS Fargate: https://docs.aws.amazon.com/eks/latest/userguide/fargate.html
+
+AWS Lambda: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+————————————————————————————————————————————————————————————————————————————————————— EFS
+
+Amazon Elastic File System: https://aws.amazon.com/efs/
+
+S3
+
+AWS S3: https://aws.amazon.com/s3/
+
+AWS S3 Pricing: https://aws.amazon.com/s3/pricing/
+
+AWS Object based Storage : https://aws.amazon.com/what-is-cloud-object-storage
+
+AWS S3 storage classes: https://aws.amazon.com/s3/storage-classes/
+
+S3 versioning: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html
+
+Amazon S3 Features: https://aws.amazon.com/s3/features/
+
+AWS S3 Bucket Policy: https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-policies.html
+
+AWS S3 Access control list: https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html AWS Snow Family: https://aws.amazon.com/snow/
+
+————————————————————————————————————————————————————————————————————————————————————— AWS VPC: https://docs.amazonaws.cn/en_us/vpc/latest/userguide/what-is-amazon-vpc.html
+
+IP Addressing in your VPC: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-ip-addressing.html
+
+Cisco CIDR link : https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html
+
+Please check AWS Direct Connect : https://aws.amazon.com/directconnect
+
+AWS Cloudwatch: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_architecture.html
+
+AWS EC2 Auto Scale : https://docs.amazonaws.cn/en_us/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
+
+Elastic Load Balancing: https://aws.amazon.com/elasticloadbalancing/?whats-new-cards-elb.sort-by=item.additionalFields.postDateTime&whats-new-cards-elb.sort-order=desc
+
+Elastic Load Balancing and Amazon EC2 Auto Scaling: https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
+
+For more details please check AWS Load balancer types: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/load-balancer-types.html
+
+Amazon SNS: https://docs.aws.amazon.com/sns/latest/dg/welcome.html
+
+What is Amazon Simple Queue Service? (SQS) : https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+
+AWS RDS: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
+
+Amazon Aurora : https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html
+
+Amazon DynamoDB: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
+
+AWS Schema Conversion Tool: https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html AWS Cloud Databases : https://aws.amazon.com/products/databases/
+
+Comparing Redis and Memcached: https://aws.amazon.com/elasticache/redis-vs-memcached/ ————————————————————————————————————————————————————————————————————————
+
+AWS IAM : https://aws.amazon.com/iam/
+
+Multi-factor Authentication: https://aws.amazon.com/iam/features/mfa/
+
+Policies and permissions in IAM : https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html
+
+Security best practices in IAM : https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html ————————————————————————————————————————————————————————————————————————
+
+AWS SQS: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html AWS Lambda : https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html
+
+AWS CloudFormation: https://docs.aws.amazon.com/cloudformation/index.html
+
+AWS ElasticBeanstalk: https://docs.aws.amazon.com/elastic-beanstalk/index.html
+
+AWS Direct Connect partners: https://aws.amazon.com/directconnect/partners/?partner-solutions-cards.sort-by=item.additionalFields.partnerNameLower&partner-solutions-cards.sort-order=asc&awsf.partner-solutions-filter-location=*all
+
+AWS Route 53: https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/govcloud-r53.html
+
+AWS Route 53 record types: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html
+
+AWS Route 53 Routing Policy: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.htm
+
+Attach a volume to multiple instances with Amazon EBS Multi-Attach: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes-multi.html
+
+AWS Lambda: https://aws.amazon.com/lambda/ and https://docs.aws.amazon.com/lambda/index.html
+
+CloudFront pricing: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/CloudFrontPricing.html
+
+AWS Compliance : https://aws.amazon.com/compliance/
+
+AWS Artifact: https://aws.amazon.com/artifact/
+
+Identity-based policies and resource-based policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html
+
+AWS Inspector: https://docs.aws.amazon.com/inspector/latest/userguide/inspector_introduction.html
+
+AWS Shield: https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html
+
+AWS WAF: https://docs.aws.amazon.com/waf/index.html
+
+AWS Guard duty: https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html
+
+Security, Identity, and Compliance on AWS: https://aws.amazon.com/products/security/
+
+AWS Pricing: https://aws.amazon.com/pricing/
+
+AWS IAM Role: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
+
+Amazon EC2 pricing: https://aws.amazon.com/ec2/pricing/
+
+AWS Pricing Calculator : https://calculator.aws/#/
+
+Set up API Gateway with CloudFront distribution? https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-cloudfront-distribution/
+
+AWS Cost Explorer: https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
+
+Comparing Memcached and Redis https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/SelectEngine.html
+
+AWS CloudTrail: https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html AWS Cloudwatch : https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
+
+AWS Trusted Advisor: https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html
+
+“The 6 R’s”: 6 Application Migration Strategies : https://docs.aws.amazon.com/whitepapers/latest/aws-migration-whitepaper/the-6-rs-6-application-migration-strategies.html
+
+AWS Well-Architected: https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
+
+AWS Reference Architecture Center: https://aws.amazon.com/architecture/
+
+AWS Quick Starts: https://aws.amazon.com/quickstart/
+
+Security in the cloud is a shared responsibility. Please check https://aws.amazon.com/compliance/shared-responsibility-model/
+
+AWS Case studies: https://aws.amazon.com/solutions/case-studies/
+
+This is my Architecture: https://aws.amazon.com/architecture/this-is-my-architecture
+
+AWS Shared Responsibility Model: https://aws.amazon.com/compliance/shared-responsibility-model/
+
+AWS KMS: https://aws.amazon.com/kms/
+
+Amazon ElastiCache pricing: https://aws.amazon.com/elasticache/pricing/
+
+Find DynamoDB DAX pricing : https://aws.amazon.com/dynamodb/pricing/on-demand/
+
+Amazon EFS FAQs : https://aws.amazon.com/efs/faq/
+
+AWS Shared Responsibility Model : https://aws.amazon.com/compliance/shared-responsibility-model/
+
+AWS CloudHSM https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html
+
+AWS Services in Scope by Compliance Program: https://aws.amazon.cEom/compliance/services-in-scope/
+
+AWS Workshops: https://workshops.aws/ AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/ AWS Ramp up guide: https://aws.amazon.com/training/ramp-up-guides/ AWS Support plans: https://aws.amazon.com/premiumsupport/plans/ AWS Knowledge Centre: https://aws.amazon.com/premiumsupport/knowledge-center/ AWS Documentation : https://docs.aws.amazon.com/ AWS Discussion Forums: https://forums.aws.amazon.com/index.jspa

@@ -1,0 +1,22 @@
+
+const moment = require('moment');
+// Assume we have a MealBooking model defined
+async function createMealBookingForMonth(userId, startDate, endDate, selectedDates) {
+  const startMonth = moment(startDate).startOf('month');
+  const endMonth = moment(endDate).endOf('month');
+  const monthDiff = endMonth.diff(startMonth, 'months') + 1;
+  for (let i = 0; i < monthDiff; i++) {
+    const monthStart = moment(startMonth).add(i, 'months');
+    const monthEnd = moment(monthStart).endOf('month');
+    const monthSelectedDates = selectedDates.filter(date => {
+      return moment(date).isBetween(monthStart, monthEnd, 'day', '[]');
+    });
+    await MealBooking.create({
+      userId: userId,
+      startDate: monthStart.toDate(),
+      endDate: monthEnd.toDate(),
+      selectedDates: monthSelectedDates
+    });
+  }
+}
+

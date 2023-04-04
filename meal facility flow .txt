@@ -1,0 +1,13 @@
+
+Booking Flow 
+----------------
+
+1.we can create booking with single entry for each (Lunch & dineer)  
+new Date().toLocaleString("en-US", {timeZone: "IST"})
+
+
+[{2119},{1234},{3213}]
+
+"1218,1235,3212"
+
+[1321,2322,4323,5323]
